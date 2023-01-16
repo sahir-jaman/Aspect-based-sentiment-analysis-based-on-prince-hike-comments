@@ -1,4 +1,4 @@
-<h2> Dataset and some extra files are currently hidden for privacy perpous. 
+<h2> Dataset and some extra files are currently hidden for privacy purpose. 
 
 # sentiment output
 
